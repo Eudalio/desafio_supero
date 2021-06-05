@@ -1,0 +1,20 @@
+<Retorno>
+	<id>794</id>
+	<name>Premium Quality</name>
+	<date_created>2017-03-23</date_created>
+	<description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</description>
+	<length>3.5</length>
+	<width>5.5</width>
+	<height>6.7</height>
+	<categories>
+		<category>
+			<id>9</id>
+			<name>Clothing</name>
+		</category>
+			<category>
+			<id>14</id>
+			<name>T-shirts</name>
+		</category>
+	</categories>
+	<tags/>
+</Retorno>
